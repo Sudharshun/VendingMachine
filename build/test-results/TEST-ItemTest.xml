@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ItemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-01-19T22:53:58" hostname="COMPOZED-G2-125" time="0.0">
+  <properties/>
+  <testcase name="createItem_Initialize" classname="ItemTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
